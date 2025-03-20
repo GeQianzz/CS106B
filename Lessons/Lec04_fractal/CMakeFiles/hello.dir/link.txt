@@ -1,0 +1,1 @@
+/usr/bin/c++ -fopenmp -fopenmp -ldl -lpthread CMakeFiles/hello.dir/src/main_calculate.cpp.o CMakeFiles/hello.dir/src/main_line.cpp.o CMakeFiles/hello.dir/src/main_rec.cpp.o CMakeFiles/hello.dir/src/main_tri.cpp.o -o hello  libstanford.a -lpthread -ldl 

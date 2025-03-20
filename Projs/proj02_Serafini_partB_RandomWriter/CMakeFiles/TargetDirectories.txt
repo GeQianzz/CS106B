@@ -1,0 +1,4 @@
+/home/geqian/Myfiles/cs106B/Projs/proj02_Serafini_partB_RandomWriter/CMakeFiles/stanford.dir
+/home/geqian/Myfiles/cs106B/Projs/proj02_Serafini_partB_RandomWriter/CMakeFiles/hello.dir
+/home/geqian/Myfiles/cs106B/Projs/proj02_Serafini_partB_RandomWriter/CMakeFiles/edit_cache.dir
+/home/geqian/Myfiles/cs106B/Projs/proj02_Serafini_partB_RandomWriter/CMakeFiles/rebuild_cache.dir

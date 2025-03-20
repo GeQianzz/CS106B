@@ -1,0 +1,1 @@
+/usr/bin/c++ -fopenmp -fopenmp -ldl -lpthread CMakeFiles/hello.dir/src/lifegui.cpp.o CMakeFiles/hello.dir/src/main.cpp.o -o hello  libstanford.a -lpthread -ldl 

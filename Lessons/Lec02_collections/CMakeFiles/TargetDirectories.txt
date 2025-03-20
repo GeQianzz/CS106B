@@ -1,0 +1,4 @@
+/home/geqian/Myfiles/cs106B/Lessons/Lec02_collections/CMakeFiles/stanford.dir
+/home/geqian/Myfiles/cs106B/Lessons/Lec02_collections/CMakeFiles/hello.dir
+/home/geqian/Myfiles/cs106B/Lessons/Lec02_collections/CMakeFiles/edit_cache.dir
+/home/geqian/Myfiles/cs106B/Lessons/Lec02_collections/CMakeFiles/rebuild_cache.dir

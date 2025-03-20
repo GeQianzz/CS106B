@@ -1,0 +1,4 @@
+/home/geqian/Myfiles/cs106B/Lessons/Lec05_BackTracking/CMakeFiles/stanford.dir
+/home/geqian/Myfiles/cs106B/Lessons/Lec05_BackTracking/CMakeFiles/hello.dir
+/home/geqian/Myfiles/cs106B/Lessons/Lec05_BackTracking/CMakeFiles/edit_cache.dir
+/home/geqian/Myfiles/cs106B/Lessons/Lec05_BackTracking/CMakeFiles/rebuild_cache.dir

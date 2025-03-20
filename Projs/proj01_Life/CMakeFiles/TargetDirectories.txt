@@ -1,0 +1,4 @@
+/home/geqian/Myfiles/cs106B/Projs/proj01_Life_nvim/CMakeFiles/stanford.dir
+/home/geqian/Myfiles/cs106B/Projs/proj01_Life_nvim/CMakeFiles/hello.dir
+/home/geqian/Myfiles/cs106B/Projs/proj01_Life_nvim/CMakeFiles/edit_cache.dir
+/home/geqian/Myfiles/cs106B/Projs/proj01_Life_nvim/CMakeFiles/rebuild_cache.dir

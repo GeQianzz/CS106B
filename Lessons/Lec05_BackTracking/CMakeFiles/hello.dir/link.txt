@@ -1,0 +1,1 @@
+/usr/bin/c++ -fopenmp -fopenmp -ldl -lpthread CMakeFiles/hello.dir/src/diceSum.cpp.o CMakeFiles/hello.dir/src/permute.cpp.o CMakeFiles/hello.dir/src/printBinary.cpp.o -o hello  libstanford.a -lpthread -ldl 

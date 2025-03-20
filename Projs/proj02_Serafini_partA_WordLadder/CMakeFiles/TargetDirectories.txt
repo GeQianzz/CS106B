@@ -1,0 +1,4 @@
+/home/geqian/Myfiles/cs106B/Projs/proj02_Serafini_partA_WordLadder/CMakeFiles/stanford.dir
+/home/geqian/Myfiles/cs106B/Projs/proj02_Serafini_partA_WordLadder/CMakeFiles/hello.dir
+/home/geqian/Myfiles/cs106B/Projs/proj02_Serafini_partA_WordLadder/CMakeFiles/edit_cache.dir
+/home/geqian/Myfiles/cs106B/Projs/proj02_Serafini_partA_WordLadder/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,4 @@
+/home/geqian/Myfiles/cs106B/Lessons/Lec04_fractal/CMakeFiles/stanford.dir
+/home/geqian/Myfiles/cs106B/Lessons/Lec04_fractal/CMakeFiles/hello.dir
+/home/geqian/Myfiles/cs106B/Lessons/Lec04_fractal/CMakeFiles/edit_cache.dir
+/home/geqian/Myfiles/cs106B/Lessons/Lec04_fractal/CMakeFiles/rebuild_cache.dir
